@@ -39,7 +39,12 @@ const songs = [
     title: "beduvenu Varavannu",
     audioUrl: "bv.mp3",
     coverUrl: "js.jpeg"
-  }
+  },
+  {
+    title: "beduvenu Varavannu",
+    audioUrl: "d.mp3",
+    coverUrl: "jd.jpeg"
+  };
   // Add more Kannada songs here
 ];
 
