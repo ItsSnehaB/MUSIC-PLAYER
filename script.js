@@ -11,6 +11,11 @@ const cover = document.getElementById("cover");
 // Your Kannada new love songs array with song details
 const songs = [
   {
+    title: "dwapara",
+    audioUrl: "d.mp3",
+    coverUrl: "jd.jpeg"
+  },
+  {
     title: "Niralli Sanna",
     audioUrl: "niralli.mp3",
     coverUrl: "ns.jpeg"
@@ -32,7 +37,7 @@ const songs = [
   },
   {
     title: "malenadina hoovu",
-    audioUrl: "mn.mp3",
+    audioUrl: "Malenadina-Hoovu-nee.mp3",
     coverUrl: "mh.jpeg"
   },
   {
@@ -41,10 +46,10 @@ const songs = [
     coverUrl: "js.jpeg"
   },
   {
-    title: "beduvenu Varavannu",
+    title: "dwapara",
     audioUrl: "d.mp3",
     coverUrl: "jd.jpeg"
-  };
+  }
   // Add more Kannada songs here
 ];
 
