@@ -37,7 +37,7 @@ const songs = [
   },
   {
     title: "malenadina hoovu",
-    audioUrl: "Malenadina-Hoovu-nee.mp3",
+    audioUrl: "mn.mp3",
     coverUrl: "mh.jpeg"
   },
   {
